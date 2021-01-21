@@ -165,3 +165,4 @@ Put the SD card’s filesystem in the path list so Python scripts can be importe
 * [https://github.com/koendv/micropython/tree/devel/ports/stm32/boards/DEVEBOX_STM32H743](https://github.com/koendv/micropython/tree/devel/ports/stm32/boards/DEVEBOX_STM32H743)
 * [https://bitbucket.org/jstoefer/devebox_h743/src/master/](https://bitbucket.org/jstoefer/devebox_h743/src/master/)
 * [https://www.micropython.org.cn/forum/viewtopic.php?f=10&p=3003&sid=5fe8fdfca1c26a500f32f5aacf0e8af8#p3003](https://www.micropython.org.cn/forum/viewtopic.php?f=10&p=3003&sid=5fe8fdfca1c26a500f32f5aacf0e8af8#p3003)
+* [https://forum.micropython.org/viewtopic.php?f=12&t=7504](https://forum.micropython.org/viewtopic.php?f=12&t=7504)
